@@ -2,7 +2,7 @@
 
 A responsive website that simulates a e-commerce of shoes to Metaverse.
 
-//<center><img src="https://user-images.githubusercontent.com/103606213/187323116-c5047013-2a62-4ef8-b4ac-57f1ff28a966.gif"></center>
+<center><img src="https://user-images.githubusercontent.com/103606213/191617643-8f15ffe2-3e50-4258-987e-1c7f9a2bc686.gif"></center>
 
 Try it out now at https://projeto14-metashoes-front.vercel.app/
 
@@ -16,12 +16,16 @@ This is a Single-Page Application that simulates a e-commerce. Below are the imp
 - Add to cart
 - Remove from cart
 - Buy a shoe
+- An administrator account responsible for adding and removing Meta shoes
 
 ## Why?
 
 This project was made to be part of my GitHub portfolio.
 
-This web site was my first project full stack using MongoDB! 
+This web site was my first project Full Stack doing everything from the layout to the deploy, using MongoDB! 
+
+The Back-end can be found here:
+https://github.com/Elias-Manica/E-commerce-MetaShoes-Back
 
 I will be happy if you can give me some feedback on the code, layout or anything you think could have been better in the project.
 
